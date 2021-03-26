@@ -1,0 +1,1183 @@
+name,demand,cutoff
+Alabama A & M University,1104,0.03
+University of Alabama at Birmingham,1773,0.45
+University of Alabama in Huntsville,651,0.4
+Alabama State University,1479,0.04
+The University of Alabama,6454,0.34
+Auburn University,3726,0.53
+Birmingham Southern College,356,0.45
+Huntingdon College,261,0.12
+Jacksonville State University,1158,0.12
+Judson College,68,0.34
+University of Mobile,259,0.24
+University of Montevallo,531,0.21
+University of North Alabama,970,0.14
+Oakwood University,409,0.08
+Samford University,765,0.4
+University of South Alabama,1878,0.16
+Spring Hill College,431,0.27
+Stillman College,257,0.05
+Tuskegee University,650,0.08
+Alaska Pacific University,33,0.18
+Arizona State University-Tempe,7171,0.45
+University of Arizona,7401,0.34
+Embry-Riddle Aeronautical University-Prescott,448,0.53
+Northern Arizona University,4772,0.24
+Prescott College,49,0.12
+Arizona Christian University,90,0.21
+University of Arkansas at Little Rock,667,0.1
+Lyon College,174,0.53
+University of Arkansas,4339,0.45
+University of Arkansas at Pine Bluff,568,0.03
+Arkansas State University-Main Campus,1619,0.21
+Arkansas Tech University,1755,0.1
+Central Baptist College,129,0.24
+Harding University,1041,0.34
+Henderson State University,704,0.3
+Hendrix College,436,0.53
+John Brown University,305,0.34
+Ouachita Baptist University,394,0.21
+University of the Ozarks,159,0.18
+Williams Baptist College,156,0.1
+Southern Arkansas University Main Campus,663,0.14
+University of Arkansas-Fort Smith,1343,0.14
+Azusa Pacific University,1250,0.3
+Biola University,903,0.34
+California Baptist University,993,0.12
+California Institute of Technology,249,0.98
+California Lutheran University,540,0.4
+California Polytechnic State University-San Luis Obispo,3635,0.7
+California State University-Bakersfield,1328,0.08
+California State University-Stanislaus,1109,0.1
+California State University-San Bernardino,2448,0.08
+California State Polytechnic University-Pomona,3120,0.3
+California State University-Chico,2714,0.21
+California State University-Dominguez Hills,1214,0.05
+California State University-Fresno,3139,0.1
+California State University-Fullerton,4526,0.24
+California State University-East Bay,1572,0.08
+California State University-Long Beach,4276,0.21
+California State University-Los Angeles,2908,0.07
+California State University-Northridge,4149,0.08
+California State University-Sacramento,3151,0.14
+University of California-Berkeley,4162,0.81
+University of California-Davis,5208,0.6
+University of California-Irvine,5077,0.49
+University of California-Los Angeles,5620,0.73
+University of California-Riverside,4034,0.34
+University of California-San Diego,4575,0.79
+University of California-Santa Barbara,4741,0.6
+University of California-Santa Cruz,3827,0.3
+California Maritime Academy,198,0.3
+Chapman University,1289,0.64
+Concordia University-Irvine,373,0.18
+San Diego Christian College,99,0.14
+Claremont McKenna College,337,0.88
+Dominican University of California,305,0.27
+Fresno Pacific University,212,0.16
+Harvey Mudd College,217,0.95
+Holy Names University,87,0.1
+Humboldt State University,1237,0.16
+University of La Verne,623,0.24
+La Sierra University,477,0.1
+The Master's College and Seminary,209,0.24
+Loyola Marymount University,1341,0.57
+Menlo College,139,0.18
+Mills College,217,0.34
+Mount St Mary's College,559,0.12
+Notre Dame de Namur University,172,0.14
+Occidental College,548,0.76
+Hope International University,78,0.12
+Pacific Union College,335,0.16
+University of the Pacific,958,0.49
+Pepperdine University,784,0.64
+Point Loma Nazarene University,647,0.45
+Pomona College,397,0.91
+University of Redlands,673,0.45
+San Diego State University,4139,0.34
+University of San Diego,1238,0.64
+San Francisco State University,3807,0.18
+University of San Francisco,1148,0.53
+San Jose State University,3384,0.24
+Santa Clara University,1278,0.76
+Scripps College,272,0.83
+Simpson University,150,0.18
+Saint Mary's College of California,622,0.4
+Sonoma State University,1749,0.18
+Vanguard University of Southern California,392,0.08
+University of Southern California,2922,0.87
+Thomas Aquinas College,88,0.64
+Westmont College,298,0.53
+Whittier College,446,0.24
+Woodbury University,118,0.16
+Adams State University,519,0.18
+University of Colorado Denver,991,0.27
+University of Colorado Colorado Springs,1616,0.24
+University of Colorado Boulder,5846,0.53
+Colorado College,522,0.76
+Colorado School of Mines,949,0.81
+Colorado State University-Fort Collins,4443,0.4
+University of Denver,1413,0.6
+Fort Lewis College,876,0.27
+Colorado Mesa University,2214,0.18
+Metropolitan State University of Denver,1991,0.24
+University of Northern Colorado,1939,0.18
+Regis University,531,0.24
+Colorado State University-Pueblo,916,0.12
+Western State Colorado University,473,0.14
+Albertus Magnus College,132,0.01
+University of Bridgeport,542,0.12
+Central Connecticut State University,1293,0.21
+University of Connecticut,3755,0.67
+Eastern Connecticut State University,985,0.24
+University of Hartford,1267,0.27
+University of New Haven,1174,0.24
+Quinnipiac University,1803,0.4
+University of Saint Joseph,153,0.14
+Southern Connecticut State University,1380,0.1
+Trinity College,604,0.67
+Wesleyan University,752,0.87
+Yale University,1356,0.94
+Delaware State University,1036,0.1
+University of Delaware,4224,0.53
+Wesley College,556,0.03
+American University,1627,0.64
+Catholic University of America,837,0.4
+Gallaudet University,201,0.02
+George Washington University,2387,0.73
+Georgetown University,1570,0.87
+Howard University,1394,0.27
+Barry University,576,0.12
+Bethune-Cookman University,1022,0.03
+Lynn University,456,0.1
+University of Central Florida,6068,0.57
+Clearwater Christian College,126,0.18
+Eckerd College,534,0.34
+Edward Waters College,208,0.03
+Embry-Riddle Aeronautical University-Daytona Beach,944,0.4
+Florida Agricultural and Mechanical University,1145,0.12
+Florida Atlantic University,3479,0.27
+Flagler College-St Augustine,708,0.49
+Florida College,196,0.21
+Florida Institute of Technology,783,0.49
+Florida International University,2990,0.49
+Florida Southern College,635,0.34
+Florida State University,6048,0.57
+University of Florida,6373,0.7
+Jacksonville University,528,0.21
+University of Miami,2140,0.81
+University of North Florida,1615,0.53
+Nova Southeastern University,673,0.27
+Palm Beach Atlantic University,587,0.21
+Rollins College,477,0.57
+University of South Florida-Main Campus,3904,0.57
+St Thomas University,210,0.1
+Stetson University,852,0.49
+Southeastern University,865,0.1
+The University of Tampa,1592,0.34
+Warner University,179,0.1
+Webber International University,207,0.02
+The University of West Florida,1333,0.21
+Albany State University,501,0.08
+Armstrong Atlantic State University,1128,0.18
+Point University,238,0.12
+Clark Atlanta University,781,0.05
+Berry College,672,0.49
+Brenau University,206,0.14
+Brewton-Parker College,150,0.1
+Clayton  State University,545,0.12
+Columbus State University,1045,0.14
+Covenant College,268,0.49
+Emmanuel College,156,0.12
+Emory University,1363,0.86
+Fort Valley State University,624,0.04
+Georgia Institute of Technology-Main Campus,3044,0.87
+Georgia Southwestern State University,376,0.12
+Georgia College and State University,1392,0.45
+Georgia Southern University,3604,0.4
+Georgia State University,3460,0.27
+University of Georgia,4936,0.67
+Kennesaw State University,3194,0.3
+LaGrange College,271,0.18
+Mercer University,728,0.53
+Morehouse College,488,0.18
+Oglethorpe University,282,0.4
+Paine College,268,0.02
+Piedmont College,255,0.16
+Reinhardt University,396,0.12
+Savannah State University,1301,0.05
+Shorter University,309,0.1
+Spelman College,523,0.21
+Southern Polytechnic State University,797,0.49
+Toccoa Falls College,178,0.18
+Truett-McConnell College,204,0.1
+Valdosta State University,1734,0.24
+Wesleyan College,117,0.14
+University of West Georgia,2214,0.14
+Chaminade University of Honolulu,267,0.16
+University of Hawaii at Hilo,461,0.14
+University of Hawaii at Manoa,1981,0.34
+Hawaii Pacific University,591,0.16
+University of Hawaii-West Oahu,301,0.08
+Boise State University,2205,0.21
+University of Idaho,1643,0.27
+The College of Idaho,292,0.21
+Lewis-Clark State College,475,0.12
+Northwest Nazarene University,261,0.21
+Brigham Young University-Idaho,3448,0.16
+Aurora University,646,0.21
+Blackburn College,116,0.34
+Bradley University,1085,0.4
+Chicago State University,276,0.18
+University of Chicago,1426,0.95
+Concordia University-Chicago,376,0.18
+DePaul University,2425,0.45
+Elmhurst College,506,0.18
+Eureka College,138,0.49
+Greenville College,277,0.45
+University of Illinois at Chicago,3104,0.4
+University of Illinois at Urbana-Champaign,7329,0.92
+Illinois Wesleyan University,529,0.64
+Illinois College,270,0.1
+Illinois Institute of Technology,465,0.83
+Judson University,201,0.34
+Lake Forest College,403,0.4
+Lewis University,694,0.27
+Loyola University Chicago,2512,0.49
+MacMurray College,120,0.07
+McKendree University,387,0.3
+Millikin University,451,0.16
+Monmouth College,392,0.24
+North Park University,373,0.21
+Northern Illinois University,2679,0.18
+Northwestern University,2037,0.92
+Quincy University,275,0.34
+Rockford University,113,0.18
+Roosevelt University,444,0.16
+Dominican University,497,0.27
+University of St Francis,237,0.16
+Saint Xavier University,594,0.16
+University of Illinois at Springfield,316,0.16
+Southern Illinois University-Carbondale,2612,0.24
+Southern Illinois University-Edwardsville,1966,0.27
+Trinity Christian College,205,0.21
+Trinity International University-Illinois,182,0.24
+Wheaton College,598,0.76
+Anderson University,444,0.24
+Ball State University,3616,0.3
+Bethel College-Indiana,250,0.21
+Butler University,1015,0.49
+Calumet College of Saint Joseph,192,0.07
+DePauw University,641,0.57
+Earlham College,254,0.6
+University of Evansville,543,0.34
+Franklin College,296,0.21
+Goshen College,167,0.27
+Grace College and Theological Seminary,347,0.21
+Hanover College,334,0.4
+Holy Cross College,157,0.14
+Huntington University,227,0.16
+Indiana University-Purdue University-Fort Wayne,1660,0.18
+Indiana University-Purdue University-Indianapolis,3796,0.18
+University of Indianapolis,830,0.21
+University of Southern Indiana,1709,0.18
+Indiana State University,2661,0.08
+Indiana University-Kokomo,508,0.12
+Indiana University-South Bend,921,0.14
+Indiana University-Bloomington,7604,0.53
+Indiana University-Northwest,830,0.07
+Indiana University-Southeast,1026,0.14
+Indiana University-East,404,0.1
+Manchester University,359,0.18
+Marian University,338,0.21
+Indiana Wesleyan University,1437,0.27
+University of Notre Dame,2070,0.89
+Oakland City University,108,0.16
+Purdue University-Calumet Campus,827,0.14
+Purdue University-North Central Campus,653,0.14
+University of Saint Francis-Fort Wayne,388,0.18
+Saint Josephs College,273,0.21
+Saint Mary-of-the-Woods College,64,0.07
+Saint Mary's College,437,0.3
+Taylor University,459,0.4
+Trine University,421,0.34
+Valparaiso University,876,0.4
+Central College,309,0.18
+Clarke University,181,0.27
+Coe College,390,0.34
+Cornell College,261,0.4
+Dordt College,381,0.34
+Drake University,850,0.53
+University of Dubuque,447,0.07
+Graceland University-Lamoni,326,0.04
+Grand View University,298,0.08
+Grinnell College,423,0.81
+Iowa State University,5366,0.49
+Iowa Wesleyan College,103,0.12
+University of Iowa,4460,0.79
+Loras College,414,0.07
+Luther College,628,0.34
+University of Northern Iowa,1722,0.34
+Northwestern College,284,0.24
+Wartburg College,451,0.16
+William Penn University,264,0.05
+Baker University,235,0.3
+Benedictine College,494,0.27
+Bethany College,184,0.14
+Bethel College-North Newton,123,0.12
+Central Christian College of Kansas,131,0.16
+Emporia State University,696,0.27
+Friends University,184,0.12
+Newman University,165,0.12
+Kansas Wesleyan University,151,0.24
+McPherson College,170,0.34
+MidAmerica Nazarene University,198,0.12
+Ottawa University-Ottawa,145,0.08
+University of Saint Mary,109,0.16
+Southwestern College,128,0.21
+Sterling College,169,0.1
+Tabor College,159,0.12
+Wichita State University,1412,0.27
+Alice Lloyd College,189,0.18
+Asbury University,322,0.4
+Bellarmine University,676,0.3
+Berea College,397,0.4
+Brescia University,150,0.21
+Campbellsville University,525,0.08
+Centre College,377,0.6
+University of the Cumberlands,488,0.16
+Eastern Kentucky University,2306,0.18
+Georgetown College,238,0.21
+Kentucky State University,506,0.01
+Kentucky Wesleyan College,163,0.1
+University of Kentucky,4702,0.34
+Kentucky Christian University,135,0.08
+University of Louisville,2857,0.4
+Mid-Continent University,201,0.04
+Midway College,115,0.14
+Morehead State University,1649,0.21
+Murray State University,1626,0.16
+Northern Kentucky University,2107,0.14
+University of Pikeville,386,0.05
+Spalding University,402,0.16
+Thomas More College,264,0.14
+Transylvania University,294,0.4
+Union College,242,0.12
+Western Kentucky University,3375,0.12
+Centenary College of Louisiana,128,0.34
+Dillard University,229,0.04
+Grambling State University,714,0.03
+Louisiana State University and Agricultural & Mechanical College,5725,0.45
+Louisiana State University-Shreveport,345,0.45
+Louisiana College,266,0.14
+Louisiana Tech University,1552,0.3
+Loyola University New Orleans,624,0.4
+McNeese State University,1313,0.3
+University of New Orleans,860,0.3
+Nicholls State University,1243,0.27
+University of Louisiana at Monroe,1325,0.27
+Northwestern State University of Louisiana,1231,0.16
+Southern University and A & M College,781,0.08
+Southern University at New Orleans,684,0.12
+University of Louisiana at Lafayette,2693,0.3
+Tulane University of Louisiana,1609,0.79
+Xavier University of Louisiana,675,0.12
+Bowdoin College,497,0.89
+Colby College,483,0.83
+Husson University,444,0.14
+University of Maine at Fort Kent,162,0.1
+University of Maine at Machias,104,0.1
+University of Maine,1997,0.3
+Maine Maritime Academy,225,0.27
+University of New England,633,0.27
+Saint Joseph's College of Maine,290,0.16
+University of Southern Maine,868,0.16
+Thomas College,269,0.08
+University of Baltimore,251,0.1
+Bowie State University,627,0.08
+Coppin State University,446,0.08
+Frostburg State University,895,0.14
+Hood College,281,0.21
+Johns Hopkins University,1390,0.88
+Loyola University Maryland,1096,0.6
+University of Maryland-Baltimore County,1657,0.64
+University of Maryland-College Park,4020,0.79
+University of Maryland Eastern Shore,610,0.07
+Morgan State University,899,0.1
+Mount St Mary's University,429,0.3
+Notre Dame of Maryland University,104,0.21
+Salisbury University,1246,0.53
+St Mary's College of Maryland,419,0.53
+Towson University,2748,0.34
+Stevenson University,752,0.18
+Washington College,350,0.45
+McDaniel College,453,0.34
+American International College,346,0.07
+Amherst College,466,0.89
+Bay Path College,135,0.1
+Becker College,361,0.16
+Bentley University,974,0.73
+Boston College,2215,0.86
+Boston University,3877,0.76
+Brandeis University,833,0.81
+Bridgewater State University,1476,0.18
+Curry College,643,0.12
+Eastern Nazarene College,165,0.1
+Emerson College,863,0.57
+Emmanuel College,515,0.34
+Endicott College,629,0.34
+Fisher College,239,0.03
+Fitchburg State University,759,0.18
+Framingham State University,826,0.27
+Gordon College,481,0.34
+Harvard University,1659,0.94
+Lasell College,485,0.16
+Lesley University,316,0.21
+University of Massachusetts-Lowell,1648,0.49
+University of Massachusetts-Amherst,4672,0.64
+University of Massachusetts-Boston,1413,0.24
+Massachusetts Institute of Technology,1115,0.97
+Massachusetts Maritime Academy,300,0.34
+Mount Ida College,307,0.07
+Newbury College,270,0.05
+Nichols College,414,0.12
+Massachusetts College of Liberal Arts,313,0.18
+Northeastern University,2891,0.87
+College of Our Lady of the Elms,198,0.08
+Pine Manor College,119,0.02
+Salem State University,1095,0.18
+Simmons College,339,0.45
+Springfield College,513,0.24
+University of Massachusetts-Dartmouth,1443,0.3
+Stonehill College,610,0.45
+Suffolk University,1188,0.18
+Tufts University,1314,0.91
+Wellesley College,595,0.86
+Wentworth Institute of Technology,900,0.49
+Western New England University,697,0.3
+Westfield State University,1288,0.21
+Wheelock College,217,0.18
+Williams College,547,0.87
+Worcester State University,780,0.24
+Adrian College,496,0.1
+Albion College,346,0.4
+Alma College,376,0.24
+Andrews University,388,0.18
+Calvin College,1006,0.49
+Central Michigan University,2963,0.12
+University of Detroit Mercy,481,0.34
+Eastern Michigan University,2636,0.21
+Kettering University,372,0.53
+Cornerstone University,362,0.16
+Grand Valley State University,4078,0.3
+Hope College,822,0.49
+Kalamazoo College,454,0.53
+Lake Superior State University,418,0.3
+Lawrence Technological University,341,0.57
+Madonna University,191,0.4
+University of Michigan-Ann Arbor,6200,0.87
+Michigan State University,8061,0.57
+Michigan Technological University,1153,0.67
+University of Michigan-Dearborn,954,0.34
+University of Michigan-Flint,724,0.45
+Olivet College,301,0.12
+Kuyper College,37,0.16
+Siena Heights University,300,0.18
+Spring Arbor University,368,0.21
+Augsburg College,380,0.3
+Bethel University,612,0.49
+Carleton College,527,0.89
+Concordia College at Moorhead,684,0.27
+Concordia University-Saint Paul,287,0.16
+Gustavus Adolphus College,610,0.49
+Hamline University,536,0.34
+Macalester College,555,0.76
+University of Minnesota-Twin Cities,5544,0.79
+University of Minnesota-Crookston,213,0.12
+University of Minnesota-Duluth,2054,0.3
+University of Minnesota-Morris,469,0.49
+Minnesota State University-Moorhead,989,0.27
+North Central University,246,0.16
+University of Northwestern-St Paul,466,0.24
+College of Saint Benedict,538,0.24
+Saint Cloud State University,1703,0.16
+Saint Johns University,497,0.27
+Saint Mary's University of Minnesota,318,0.21
+St Olaf College,752,0.7
+Crown College,210,0.08
+The College of Saint Scholastica,432,0.14
+University of St Thomas,1368,0.45
+St Catherine University,443,0.3
+Alcorn State University,575,0.1
+Belhaven University,281,0.18
+Blue Mountain College,83,0.14
+Delta State University,343,0.21
+Millsaps College,171,0.45
+University of Mississippi,3582,0.3
+Mississippi University for Women,184,0.57
+Mississippi College,598,0.24
+Mississippi State University,3156,0.3
+Rust College,287,0.01
+University of Southern Mississippi,1746,0.24
+Tougaloo College,153,0.03
+Avila University,182,0.18
+Central Methodist University-College of Liberal Arts and Sciences,291,0.16
+Culver-Stockton College,220,0.18
+Drury University,325,0.45
+Evangel University,460,0.21
+Fontbonne University,160,0.16
+Hannibal-LaGrange University,173,0.14
+Lindenwood University,1369,0.24
+Maryville University of Saint Louis,409,0.4
+Missouri Baptist University,265,0.08
+Missouri Valley College,415,0.08
+University of Missouri-Columbia,6194,0.45
+University of Missouri-Kansas City,1078,0.3
+Missouri University of Science and Technology,1262,0.7
+University of Missouri-St Louis,482,0.4
+Truman State University,1329,0.53
+Northwest Missouri State University,1260,0.27
+College of the Ozarks,357,0.18
+Rockhurst University,438,0.4
+Saint Louis University,1638,0.57
+Southwest Baptist University,482,0.14
+Stephens College,168,0.1
+Southeast Missouri State University,1729,0.21
+Missouri State University-Springfield,2751,0.27
+Washington University in St Louis,1610,0.95
+Webster University,418,0.3
+Westminster College,261,0.24
+William Jewell College,259,0.4
+William Woods University,208,0.21
+Carroll College,315,0.4
+Montana Tech of the University of Montana,262,0.57
+Montana State University,2914,0.4
+The University of Montana,1967,0.27
+Montana State University-Northern,200,0.05
+Rocky Mountain College,238,0.18
+Concordia University-Nebraska,282,0.21
+Creighton University,966,0.53
+Doane College-Crete,287,0.18
+Grace University,96,0.12
+Hastings College,345,0.21
+University of Nebraska at Kearney,1022,0.16
+Nebraska Wesleyan University,378,0.45
+University of Nebraska-Lincoln,4420,0.45
+Union College,178,0.16
+York College,94,0.05
+University of Nevada-Las Vegas,3773,0.18
+University of Nevada-Reno,2994,0.27
+Dartmouth College,1098,0.89
+Franklin Pierce University,538,0.16
+Southern New Hampshire University,830,0.16
+University of New Hampshire-Main Campus,2869,0.4
+Keene State College,1258,0.16
+University of New Hampshire at Manchester,94,0.18
+Plymouth State University,930,0.14
+Rivier University,223,0.14
+Saint Anselm College,508,0.45
+Bloomfield College,382,0.07
+Caldwell College,330,0.12
+Centenary College,216,0.1
+Drew University,400,0.34
+Fairleigh Dickinson University-Metropolitan Campus,760,0.18
+Felician College,153,0.05
+Fairleigh Dickinson University-College at Florham,586,0.21
+Georgian Court University,275,0.08
+Rowan University,1420,0.4
+New Jersey City University,649,0.12
+Kean University,1525,0.1
+Monmouth University,906,0.3
+Montclair State University,3040,0.18
+New Jersey Institute of Technology,1029,0.57
+Princeton University,1285,0.94
+Ramapo College of New Jersey,901,0.4
+Rider University,911,0.24
+Rutgers University-Camden,497,0.27
+Rutgers University-New Brunswick,6337,0.64
+Rutgers University-Newark,1057,0.34
+Saint Peter's University,610,0.12
+Seton Hall University,1342,0.45
+College of Saint Elizabeth,124,0.04
+Stevens Institute of Technology,622,0.83
+The Richard Stockton College of New Jersey,1069,0.34
+The College of New Jersey,1404,0.67
+William Paterson University of New Jersey,1294,0.24
+Eastern New Mexico University-Main Campus,659,0.1
+New Mexico Institute of Mining and Technology,318,0.64
+University of New Mexico-Main Campus,3424,0.24
+New Mexico State University-Main Campus,1918,0.12
+Vaughn College of Aeronautics and Technology,324,0.24
+Adelphi University,918,0.45
+Alfred University,535,0.4
+Barnard College,580,0.79
+Canisius College,682,0.34
+Clarkson University,757,0.64
+Colgate University,759,0.86
+Columbia University in the City of New York,1415,0.92
+Concordia College-New York,153,0.12
+Cooper Union for the Advancement of Science and Art,186,0.76
+Cornell University,3223,0.89
+CUNY Bernard M Baruch College,1185,0.73
+CUNY Brooklyn College,1148,0.45
+College of Staten Island CUNY,2556,0.24
+CUNY City College,1397,0.49
+CUNY Hunter College,1971,0.53
+CUNY John Jay College of Criminal Justice,1908,0.16
+CUNY Lehman College,551,0.27
+CUNY Medgar Evers College,1045,0.07
+CUNY New York City College of Technology,2861,0.18
+CUNY Queens College,1449,0.53
+CUNY York College,1111,0.14
+D'Youville College,258,0.24
+Dominican College of Blauvelt,286,0.08
+Elmira College,324,0.27
+Fordham University,1967,0.7
+Hamilton College,491,0.87
+Hartwick College,528,0.4
+Hofstra University,1488,0.53
+Houghton College,223,0.3
+Iona College,922,0.18
+Le Moyne College,622,0.34
+LIU Brooklyn,879,0.08
+LIU Post,659,0.16
+Manhattan College,757,0.3
+Manhattanville College,476,0.3
+Marymount Manhattan College,399,0.18
+Medaille College,443,0.04
+Molloy College,501,0.3
+Mount Saint Mary College,449,0.21
+College of Mount Saint Vincent,386,0.1
+The College of New Rochelle,532,0.18
+The New School,1038,0.4
+New York University,5207,0.81
+Niagara University,700,0.24
+New York Institute of Technology,841,0.3
+Nyack College,264,0.04
+Pace University-New York,1848,0.24
+Paul Smiths College of Arts and Science,240,0.14
+Polytechnic Institute of New York University,451,0.83
+Rensselaer Polytechnic Institute,1411,0.88
+Roberts Wesleyan College,206,0.24
+Rochester Institute of Technology,2784,0.64
+University of Rochester,1472,0.86
+St Bonaventure University,438,0.24
+St Francis College,568,0.12
+St Thomas Aquinas College,337,0.1
+Siena College,734,0.45
+Skidmore College,660,0.64
+Saint Joseph's College-New York,547,0.27
+Saint John Fisher College,521,0.4
+St John's University-New York,2792,0.3
+SUNY College of Technology at Alfred,1101,0.49
+SUNY College of Agriculture and Technology at Cobleskill,781,0.18
+Farmingdale State College,1190,0.18
+Morrisville State College,858,0.12
+SUNY at Albany,2568,0.45
+SUNY at Binghamton,2664,0.81
+University at Buffalo,3669,0.57
+Stony Brook University,2709,0.73
+SUNY College of Environmental Science and Forestry,288,0.53
+SUNY Institute of Technology at Utica-Rome,274,0.34
+SUNY College at Brockport,1085,0.3
+Buffalo State SUNY,1324,0.18
+SUNY College at Cortland,1207,0.34
+SUNY at Fredonia,1007,0.24
+SUNY College at Geneseo,997,0.73
+State University of New York at New Paltz,1119,0.45
+SUNY Oneonta,1119,0.45
+SUNY College at Oswego,1508,0.45
+SUNY at Purchase College,775,0.27
+SUNY College at Old Westbury,410,0.24
+SUNY College at Plattsburgh,954,0.24
+SUNY Maritime College,331,0.27
+Syracuse University,3487,0.53
+Union College,559,0.81
+Utica College,489,0.12
+Vassar College,666,0.86
+Wagner College,430,0.45
+Wells College,161,0.24
+Yeshiva University,857,0.57
+Appalachian State University,3028,0.53
+Barton College,217,0.14
+Belmont Abbey College,283,0.16
+Brevard College,245,0.14
+Campbell University,788,0.05
+Catawba College,342,0.16
+Chowan University,474,0.02
+Davidson College,483,0.73
+Duke University,1714,0.91
+East Carolina University,4015,0.34
+Elizabeth City State University,527,0.08
+Elon University,1474,0.6
+Fayetteville State University,612,0.08
+Gardner-Webb University,435,0.21
+Greensboro College,200,0.08
+Guilford College,407,0.27
+High Point University,1257,0.34
+Johnson C Smith University,232,0.04
+Lenoir-Rhyne University,310,0.18
+Livingstone College,395,0.01
+Mars Hill University,419,0.12
+Meredith College,415,0.24
+Methodist University,452,0.16
+Montreat College,109,0.12
+Mount Olive College,333,0.12
+North Carolina A & T State University,1849,0.12
+University of North Carolina at Asheville,553,0.57
+University of North Carolina at Chapel Hill,3915,0.76
+University of North Carolina at Charlotte,3541,0.34
+University of North Carolina at Greensboro,2516,0.24
+North Carolina Central University,1407,0.08
+North Carolina State University at Raleigh,4398,0.7
+North Carolina Wesleyan College,222,0.08
+University of North Carolina Wilmington,2053,0.6
+William Peace University,328,0.08
+University of North Carolina at Pembroke,1020,0.14
+Pfeiffer University,218,0.16
+Queens University of Charlotte,316,0.24
+Mid-Atlantic Christian University,37,0.03
+Saint Augustine's University,327,0.02
+Salem College,174,0.3
+St Andrews University,178,0.18
+Warren Wilson College,220,0.27
+Wingate University,642,0.24
+Winston-Salem State University,685,0.14
+Western Carolina University,1558,0.27
+Dickinson State University,165,0.08
+University of Jamestown,261,0.14
+University of Mary,440,0.18
+Minot State University,397,0.16
+University of North Dakota,2360,0.34
+North Dakota State University-Main Campus,2553,0.3
+Valley City State University,186,0.16
+University of Akron Main Campus,3812,0.24
+Ashland University,623,0.16
+Baldwin Wallace University,762,0.27
+Bluffton University,250,0.16
+Bowling Green State University-Main Campus,3348,0.16
+Capital University,691,0.3
+Case Western Reserve University,1252,0.88
+Cedarville University,781,0.53
+Central State University,420,0.03
+University of Cincinnati-Main Campus,4486,0.4
+Ohio Christian University,719,0.03
+Cleveland State University,1727,0.21
+University of Dayton,1761,0.49
+Defiance College,241,0.1
+Denison University,582,0.73
+The University of Findlay,581,0.27
+Hiram College,290,0.18
+John Carroll University,793,0.34
+Kent State University at Kent,4111,0.24
+Kenyon College,483,0.73
+Lake Erie College,205,0.16
+Malone University,316,0.21
+Marietta College,385,0.34
+Miami University-Oxford,3644,0.67
+University of Mount Union,552,0.53
+Mount Vernon Nazarene University,302,0.24
+College of Mount St Joseph,324,0.05
+Muskingum University,405,0.12
+Notre Dame College,338,0.12
+Oberlin College,781,0.79
+Ohio Dominican University,239,0.27
+Ohio Northern University,613,0.49
+Ohio State University-Main Campus,7130,0.76
+Ohio University-Main Campus,4244,0.3
+Ohio Wesleyan University,541,0.34
+Otterbein University,575,0.3
+Franciscan University of Steubenville,460,0.4
+Tiffin University,1313,0.12
+University of Toledo,3428,0.21
+Ursuline College,103,0.27
+Walsh University,493,0.27
+Wilmington College,275,0.14
+Wittenberg University,549,0.45
+The College of Wooster,560,0.57
+Xavier University,1289,0.4
+Bacone College,249,0.05
+Oklahoma Wesleyan University,187,0.14
+East Central University,612,0.14
+Oklahoma Christian University,533,0.18
+Oklahoma State University-Main Campus,3872,0.45
+Oklahoma Baptist University,580,0.24
+Oklahoma City University,351,0.34
+University of Oklahoma-Norman Campus,4052,0.49
+Oral Roberts University,399,0.18
+University of Science and Arts of Oklahoma,150,0.14
+Southwestern Christian University,254,0.16
+University of Tulsa,856,0.64
+Concordia University-Portland,217,0.18
+Eastern Oregon University,426,0.1
+George Fox University,624,0.24
+Lewis & Clark College,473,0.67
+Linfield College-McMinnville Campus,449,0.34
+Northwest Christian University,82,0.16
+Oregon Institute of Technology,363,0.21
+Oregon State University,3516,0.3
+University of Oregon,4031,0.34
+Pacific University,421,0.34
+Portland State University,1465,0.21
+University of Portland,835,0.53
+Reed College,354,0.79
+Southern Oregon University,673,0.21
+Corban University,222,0.24
+Willamette University,545,0.53
+Western Oregon University,1026,0.12
+Bryn Athyn College of the New Church,81,0.21
+Albright College,655,0.24
+Allegheny College,604,0.53
+DeSales University,416,0.21
+Alvernia University,389,0.18
+Arcadia University,597,0.34
+Bloomsburg University of Pennsylvania,2218,0.21
+Bryn Mawr College,365,0.76
+Bucknell University,933,0.79
+Cabrini College,304,0.07
+California University of Pennsylvania,1154,0.16
+Carlow University,206,0.12
+Carnegie Mellon University,1442,0.92
+Cedar Crest College,141,0.1
+Chestnut Hill College,192,0.12
+Clarion University of Pennsylvania,1072,0.08
+Delaware Valley College,416,0.18
+Dickinson College,625,0.73
+Drexel University,3040,0.6
+Duquesne University,1547,0.45
+East Stroudsburg University of Pennsylvania,1210,0.18
+Eastern University,459,0.24
+Edinboro University of Pennsylvania,1191,0.1
+Elizabethtown College,530,0.4
+Gannon University,622,0.24
+Geneva College,334,0.27
+Gettysburg College,703,0.73
+Gwynedd Mercy University,211,0.12
+Haverford College,330,0.86
+Holy Family University,297,0.14
+Immaculata University,247,0.12
+Indiana University of Pennsylvania-Main Campus,2741,0.18
+Keystone College,321,0.08
+Kutztown University of Pennsylvania,1815,0.16
+La Roche College,229,0.08
+La Salle University,939,0.16
+Lafayette College,635,0.76
+Lebanon Valley College,415,0.4
+Lehigh University,1198,0.83
+Lincoln University of Pennsylvania,448,0.07
+Lock Haven University,1052,0.14
+Lycoming College,347,0.24
+Mansfield University of Pennsylvania,629,0.14
+Marywood University,407,0.27
+Mercyhurst University,600,0.24
+Messiah College,648,0.4
+Millersville University of Pennsylvania,1299,0.21
+Misericordia University,435,0.34
+Mount Aloysius College,379,0.1
+Muhlenberg College,579,0.64
+Neumann University,503,0.05
+Pennsylvania State University-Penn State Erie-Behrend College,1080,0.3
+Pennsylvania State University-Penn State New Kensington,154,0.14
+Pennsylvania State University-Penn State Shenango,90,0.07
+Pennsylvania State University-Penn State Wilkes-Barre,148,0.16
+Pennsylvania State University-Penn State Worthington Scranton,282,0.1
+Pennsylvania State University-Penn State Lehigh Valley,225,0.18
+Pennsylvania State University-Penn State Altoona,1379,0.18
+Pennsylvania State University-Penn State Beaver,208,0.12
+Pennsylvania State University-Penn State Berks,814,0.16
+Pennsylvania State University-Penn State Harrisburg,628,0.21
+Pennsylvania State University-Penn State Brandywine,368,0.16
+Pennsylvania State University-Penn State Dubois,183,0.1
+Pennsylvania State University-Penn State Fayette- Eberly,224,0.08
+Pennsylvania State University-Penn State Hazleton,433,0.12
+Pennsylvania State University-Main Campus,7649,0.6
+Pennsylvania State University-Penn State Greater Allegheny,201,0.12
+Pennsylvania State University-Penn State Mont Alto,325,0.12
+Pennsylvania State University-Penn State Abington,691,0.14
+Pennsylvania State University-Penn State Schuylkill,248,0.03
+Pennsylvania State University-Penn State York,300,0.16
+University of Pennsylvania,2421,0.91
+Philadelphia University,550,0.27
+Cairn University-Langhorne,155,0.14
+University of Pittsburgh-Bradford,379,0.16
+University of Pittsburgh-Greensburg,394,0.24
+University of Pittsburgh-Johnstown,772,0.24
+University of Pittsburgh-Pittsburgh Campus,3678,0.73
+Point Park University,548,0.12
+Robert Morris University,998,0.27
+Rosemont College,112,0.07
+Saint Francis University,403,0.24
+Saint Joseph's University,1275,0.4
+Saint Vincent College,472,0.21
+University of Scranton,881,0.45
+Seton Hill University,386,0.18
+Shippensburg University of Pennsylvania,1520,0.18
+Slippery Rock University of Pennsylvania,1409,0.24
+Susquehanna University,589,0.4
+Swarthmore College,388,0.88
+Temple University,4390,0.4
+Thiel College,303,0.16
+Ursinus College,425,0.53
+Valley Forge Christian College,148,0.12
+Villanova University,1659,0.79
+Waynesburg University,410,0.16
+West Chester University of Pennsylvania,2298,0.45
+Westminster College,309,0.21
+Widener University-Main Campus,828,0.24
+Wilkes University,596,0.27
+Wilson College,76,0.12
+York College Pennsylvania,1064,0.27
+Brown University,1543,0.88
+Bryant University,890,0.53
+Providence College,1027,0.49
+Rhode Island College,1071,0.1
+University of Rhode Island,2993,0.3
+Salve Regina University,465,0.4
+Anderson University,502,0.27
+Charleston Southern University,656,0.16
+Southern Wesleyan University,158,0.1
+College of Charleston,2138,0.53
+Citadel Military College of South Carolina,676,0.34
+Claflin University,435,0.05
+Clemson University,3463,0.7
+Coker College,247,0.16
+Columbia International University,103,0.21
+Columbia College,128,0.18
+Converse College,237,0.27
+Erskine College,194,0.21
+Francis Marion University,744,0.12
+Furman University,759,0.64
+Lander University,569,0.12
+Limestone College,451,0.27
+Newberry College,238,0.12
+North Greenville University,505,0.24
+Presbyterian College,296,0.4
+University of South Carolina-Aiken,526,0.16
+University of South Carolina-Beaufort,410,0.12
+University of South Carolina-Columbia,4625,0.6
+Coastal Carolina University,2206,0.21
+South Carolina State University,569,0.12
+University of South Carolina-Upstate,806,0.16
+Winthrop University,1096,0.21
+Wofford College,415,0.53
+Black Hills State University,619,0.14
+Dakota State University,318,0.16
+Dakota Wesleyan University,168,0.1
+Northern State University,410,0.04
+Presentation College,131,0.1
+South Dakota State University,2306,0.21
+University of Sioux Falls,237,0.1
+University of South Dakota,1342,0.21
+Aquinas College,36,0.04
+Austin Peay State University,1522,0.14
+Belmont University,1248,0.49
+Bethel University,637,0.16
+Bryan College-Dayton,187,0.24
+Carson-Newman University,481,0.21
+Cumberland University,212,0.14
+Lipscomb University,684,0.4
+East Tennessee State University,1881,0.18
+Fisk University,226,0.14
+Freed-Hardeman University,356,0.24
+King University,210,0.24
+Lane College,405,0.0
+Lee University,812,0.21
+Lincoln Memorial University,191,0.34
+Maryville College,349,0.18
+University of Memphis,2134,0.21
+Middle Tennessee State University,3276,0.18
+Milligan College,206,0.21
+Rhodes College,545,0.67
+Sewanee-The University of the South,488,0.6
+Southern Adventist University,490,0.18
+Tennessee Wesleyan College,208,0.18
+The University of Tennessee-Chattanooga,2342,0.24
+The University of Tennessee-Knoxville,4276,0.45
+Tennessee Technological University,2176,0.24
+Trevecca Nazarene University,259,0.18
+Tusculum College,310,0.16
+Union University,452,0.45
+Vanderbilt University,1613,0.94
+Abilene Christian University,1030,0.3
+Angelo State University,1220,0.16
+Austin College,364,0.6
+Baylor University,3190,0.64
+Concordia University-Texas,192,0.27
+Texas A & M University-Corpus Christi,2051,0.18
+Dallas Baptist University,492,0.27
+University of Dallas,380,0.53
+East Texas Baptist University,345,0.18
+Texas A & M University-Texarkana,187,0.21
+Texas A & M University-Commerce,943,0.18
+Hardin-Simmons University,415,0.27
+Houston Baptist University,1135,0.3
+University of Houston-Downtown,1130,0.12
+University of Houston-Victoria,310,0.12
+University of Houston,3434,0.53
+Howard Payne University,347,0.16
+Huston-Tillotson University,211,0.03
+University of the Incarnate Word,1045,0.16
+Lamar University,1451,0.16
+Texas A & M International University,828,0.1
+LeTourneau University,335,0.49
+Lubbock Christian University,255,0.18
+University of Mary Hardin-Baylor,675,0.27
+McMurry University,250,0.16
+Midwestern State University,847,0.21
+University of North Texas,4617,0.4
+Our Lady of the Lake University,341,0.12
+The University of Texas-Pan American,3102,0.16
+Paul Quinn College,70,0.03
+Prairie View A & M University,1464,0.05
+Rice University,978,0.92
+Saint Edward's University,791,0.4
+University of St Thomas,237,0.4
+Sam Houston State University,2413,0.24
+Schreiner University,299,0.18
+St Mary's University,596,0.27
+Southern Methodist University,1431,0.79
+Southwestern University,491,0.53
+Stephen F Austin State University,2253,0.21
+Texas State University,5181,0.27
+Southwestern Adventist University,172,0.1
+Sul Ross State University,310,0.05
+Tarleton State University,1617,0.18
+Texas A & M University-Kingsville,1255,0.1
+Texas A & M University-College Station,10241,0.57
+The University of Texas at Arlington,2713,0.34
+The University of Texas at Austin,7249,0.7
+The University of Texas at Dallas,2233,0.73
+The University of Texas at El Paso,3033,0.12
+The University of Texas at Tyler,704,0.3
+Texas Christian University,1936,0.57
+Texas Lutheran University,346,0.27
+The University of Texas of the Permian Basin,276,0.27
+The University of Texas at San Antonio,4493,0.3
+Texas Southern University,1110,0.05
+Texas Tech University,4785,0.45
+Texas Wesleyan University,273,0.27
+Texas Woman's University,1161,0.14
+Trinity University,534,0.7
+Wayland Baptist University,348,0.1
+West Texas A & M University,1308,0.16
+Brigham Young University-Provo,4427,0.67
+Brigham Young University-Hawaii,516,0.27
+Southern Utah University,1272,0.21
+Utah State University,3824,0.3
+University of Utah,3124,0.34
+Westminster College,449,0.34
+Castleton State College,480,0.14
+Champlain College,594,0.3
+Johnson State College,225,0.1
+Lyndon State College,365,0.08
+Middlebury College,598,0.83
+Norwich University,599,0.27
+Saint Michael's College,512,0.49
+College of St Joseph,33,0.04
+Southern Vermont College,93,0.07
+Vermont Technical College,194,0.14
+University of Vermont,2495,0.53
+Averett University,241,0.12
+Bluefield College,118,0.1
+Bridgewater College,536,0.24
+College of William and Mary,1479,0.81
+Regent University,231,0.21
+Christopher Newport University,1276,0.49
+Emory & Henry College,267,0.18
+Eastern Mennonite University,232,0.14
+Ferrum College,569,0.07
+George Mason University,3011,0.49
+Hampden-Sydney College,293,0.4
+Hampton University,1004,0.21
+Hollins University,148,0.24
+James Madison University,4325,0.49
+Liberty University,4690,0.16
+Longwood University,1111,0.21
+Lynchburg College,512,0.16
+Mary Baldwin College,218,0.08
+University of Mary Washington,947,0.34
+Marymount University,400,0.21
+Norfolk State University,829,0.08
+Old Dominion University,2943,0.24
+Radford University,1986,0.18
+Randolph-Macon College,382,0.3
+Randolph College,216,0.27
+University of Richmond,805,0.79
+Roanoke College,542,0.3
+Shenandoah University,459,0.18
+Southern Virginia University,226,0.21
+Sweet Briar College,197,0.21
+The University of Virginia's College at Wise,335,0.14
+Virginia Intermont College,45,0.05
+Virginia Polytechnic Institute and State University,5364,0.67
+Virginia Commonwealth University,3525,0.34
+University of Virginia-Main Campus,3520,0.81
+Virginia Military Institute,502,0.49
+Virginia State University,1244,0.03
+Virginia Union University,404,0.01
+Virginia Wesleyan College,453,0.18
+Washington and Lee University,480,0.87
+Central Washington University,1502,0.18
+Eastern Washington University,1579,0.14
+The Evergreen State College,509,0.18
+Gonzaga University,1096,0.57
+Trinity Lutheran College,57,0.03
+Northwest University,218,0.24
+Pacific Lutheran University,648,0.3
+University of Puget Sound,670,0.57
+Saint Martin's University,159,0.27
+Seattle Pacific University,767,0.4
+Seattle University,976,0.49
+Walla Walla University,393,0.21
+Washington State University,4163,0.21
+University of Washington-Seattle Campus,6253,0.67
+Western Washington University,2795,0.34
+Whitman College,392,0.76
+Alderson Broaddus University,438,0.18
+Bethany College,185,0.07
+Bluefield State College,306,0.12
+University of Charleston,272,0.12
+Concord University,529,0.12
+Davis & Elkins College,269,0.1
+Fairmont State University,757,0.12
+Glenville State College,315,0.04
+Marshall University,1858,0.14
+Ohio Valley University,91,0.08
+Shepherd University,756,0.18
+West Virginia State University,418,0.04
+West Liberty University,501,0.14
+West Virginia University Institute of Technology,199,0.24
+West Virginia Wesleyan College,471,0.16
+West Virginia University,5135,0.24
+Wheeling Jesuit University,238,0.18
+Beloit College,300,0.53
+Cardinal Stritch University,202,0.18
+Carthage College,726,0.49
+Concordia University-Wisconsin,580,0.21
+Lakeland College,218,0.12
+Maranatha Baptist University,210,0.12
+Marquette University,1990,0.57
+Milwaukee School of Engineering,544,0.7
+Mount Mary University,115,0.24
+Northland College,140,0.27
+Ripon College,238,0.4
+Silver Lake College of the Holy Family,40,0.21
+University of Wisconsin-Whitewater,2168,0.24
+Wisconsin Lutheran College,229,0.21
+University of Wisconsin-Madison,6279,0.81
+University of Wyoming,1584,0.34
+Stanford University,1677,0.92
+Purdue University-Main Campus,6422,0.6
+New College of Florida,222,0.64
+California State University-San Marcos,1783,0.14
+University of Washington-Bothell Campus,573,0.21
+University of Washington-Tacoma Campus,410,0.14
+Soka University of America,112,0.67
+California State University-Monterey Bay,902,0.14
+Florida Gulf Coast University,2761,0.24
+San Diego State University-Imperial Valley Campus,101,0.08
+California State University-Channel Islands,756,0.12
+Ave Maria University,254,0.24
+University of South Florida-St Petersburg,562,0.3
+University of South Florida-Sarasota-Manatee,86,0.3
+The Kingâ€™s College,127,0.4
