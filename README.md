@@ -1,2 +1,2 @@
 # StudentPrefsRevOpt
-Reverse optimization of school preferability parameters under MNL choice model
+Reverse optimization of school preferability parameters under MNL choice model.
